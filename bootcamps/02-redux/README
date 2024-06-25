@@ -1,0 +1,13 @@
+REM02 - Redux State Management
+
+Objectiveness
+- Concepts and Data Flow
+- State, Actions, and Reducers
+- Redux Store
+- Integrasi UI dan Redux
+- Async Logic dan Data Fetching
+- Middleware Introduction
+- Redux Thunk Middleware
+- Implementasi Redux Thunk
+- Redux debugging (DevTools) 
+- Context + API
